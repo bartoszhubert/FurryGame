@@ -1,1 +1,1 @@
-Vanilla JS / OOP    // 27.03.2019
+Vanilla JS / OOP    // 27.12.2018
